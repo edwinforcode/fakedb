@@ -1,4 +1,6 @@
-  {
+{
+  "employees":[
+    {
     employeeId: 'emp1',
     employeeName: 'Leaf Rake',
     employeeType: 'Regular'
@@ -23,3 +25,5 @@
     employeeName: 'Sonu',
     employeeType: 'Regular'
   }
+  ]
+}
