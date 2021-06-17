@@ -1,4 +1,3 @@
-[
   {
     employeeId: 'emp1',
     employeeName: 'Leaf Rake',
@@ -24,4 +23,3 @@
     employeeName: 'Sonu',
     employeeType: 'Regular'
   }
-]
