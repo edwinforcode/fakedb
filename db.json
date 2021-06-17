@@ -1,0 +1,27 @@
+[
+  {
+    employeeId: 'emp1',
+    employeeName: 'Leaf Rake',
+    employeeType: 'Regular'
+  },
+  {
+    employeeId: 'emp2',
+    employeeName: 'David',
+    employeeType: 'Regular'
+  },
+  {
+    employeeId: 'emp3',
+    employeeName: 'Edwin',
+    employeeType: 'Regular'
+  },
+  {
+    employeeId: 'emp4',
+    employeeName: 'Akhil',
+    employeeType: 'Contractor'
+  },
+  {
+    employeeId: 'emp5',
+    employeeName: 'Sonu',
+    employeeType: 'Regular'
+  }
+]
